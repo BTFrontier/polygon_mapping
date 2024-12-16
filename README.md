@@ -80,13 +80,12 @@ If you find this code useful in your research, please consider citing our paper:
 [Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing](https://arxiv.org/abs/2411.01919)
 
 ```bash
-@misc{bin2024realtimepolygonalsemanticmapping,
-      title={Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing}, 
-      author={Teng Bin and Jianming Yao and Tin Lun Lam and Tianwei Zhang},
-      year={2024},
-      eprint={2411.01919},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2411.01919}, 
+@inproceedings{bin2024real,
+  title={Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing},
+  author={Bin, Teng and Yao, Jianming and Lam, Tin Lun and Zhang, Tianwei},
+  booktitle={2024 IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids)},
+  pages={866--873},
+  year={2024},
+  organization={IEEE}
 }
 ```
